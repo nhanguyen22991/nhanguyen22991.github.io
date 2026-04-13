@@ -645,6 +645,12 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 @cheapflightclient/cheapflight/passenger-info/utility
 
+@cheapflightclient/cheapflight/passenger-profiles/data-access
+
+@cheapflightclient/cheapflight/passenger-profiles/feature
+
+@cheapflightclient/cheapflight/passenger-profiles/ui
+
 @cheapflightclient/cheapflight/payment/data-access
 
 @cheapflightclient/cheapflight/payment/feature
