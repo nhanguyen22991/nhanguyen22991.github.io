@@ -617,6 +617,12 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 @cheapflightclient/cheapflight/hunt-ticket-advanced/ui
 
+@cheapflightclient/cheapflight/international-ticket/data-access
+
+@cheapflightclient/cheapflight/international-ticket/feature
+
+@cheapflightclient/cheapflight/international-ticket/ui
+
 @cheapflightclient/cheapflight/layouts/admin-layout/feature
 
 @cheapflightclient/cheapflight/layouts/auth-layout/feature
