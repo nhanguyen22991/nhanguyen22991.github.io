@@ -631,6 +631,12 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 @cheapflightclient/cheapflight/link/data-access
 
+@cheapflightclient/cheapflight/manage-banner/data-access
+
+@cheapflightclient/cheapflight/manage-banner/feature
+
+@cheapflightclient/cheapflight/manage-banner/ui
+
 @cheapflightclient/cheapflight/manage-booking/data-access
 
 @cheapflightclient/cheapflight/manage-booking/feature
