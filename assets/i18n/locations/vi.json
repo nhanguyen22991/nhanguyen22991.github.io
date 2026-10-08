@@ -7627,6 +7627,21 @@
     "SBF": "Orlando/Sanford",
     "KMP": "Kempton Park"
   },
+  "province": {
+    "BMV": "Đắk Lắk",
+    "CXR": "Khánh Hòa",
+    "DIN": "Điện Biên",
+    "DLI": "Lâm Đồng",
+    "PQC": "An Giang",
+    "PXU": "Gia Lai",
+    "UIH": "Gia Lai",
+    "VCS": "TP Hồ Chí Minh",
+    "VII": "Nghệ An",
+    "TBB": "Đắk Lắk",
+    "VCL": "Đà Nẵng",
+    "VDH": "Quảng Trị",
+    "VKG": "An Giang"
+  },
   "country": {
     "VN": "Việt Nam",
     "DZ": "Algeria",

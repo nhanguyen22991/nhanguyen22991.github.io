@@ -3833,7 +3833,7 @@
     "VCL": "Chu Lai",
     "VCS": "Con Dao",
     "VDH": "Dong Hoi",
-    "VDO": "Van Don",
+    "VDO": "Quang Ninh",
     "VII": "Vinh",
     "VKG": "Rach Gia",
     "AAE": "Annaba",
@@ -7626,6 +7626,21 @@
     "AKC": "Akron",
     "SBF": "Orlando/Sanford",
     "KMP": "Kempton Park"
+  },
+  "province": {
+    "BMV": "Dak Lak",
+    "CXR": "Khanh Hoa",
+    "DIN": "Dien Bien",
+    "DLI": "Lam Dong",
+    "PQC": "An Giang",
+    "PXU": "Gia Lai",
+    "UIH": "Gia Lai",
+    "VCS": "Ho Chi Minh City",
+    "VII": "Nghe An",
+    "TBB": "Dak Lak",
+    "VCL": "Da Nang",
+    "VDH": "Quang Tri",
+    "VKG": "An Giang"
   },
   "country": {
     "VN": "Vietnam",
