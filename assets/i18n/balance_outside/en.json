@@ -88,7 +88,7 @@
   "remark.update_success_detail": "New remark for debt added successfully!",
   "remark.update_success_title": "Updated successfully",
   "status.approved": "Approved",
-  "status.pending": "Pending approval",
+  "status.pending": "In Review",
   "status.recorded": "Recorded",
   "status.rejected": "Rejected",
   "type.add_on": "Add-on service debt",
