@@ -760,6 +760,8 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 @cheapflightclient/cheapflight/shared/interceptor
 
+@cheapflightclient/cheapflight/shared/lark-notification
+
 @cheapflightclient/cheapflight/shared/mobile-detect
 
 @cheapflightclient/cheapflight/shared/permission
